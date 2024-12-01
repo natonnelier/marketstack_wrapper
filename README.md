@@ -134,20 +134,17 @@ Development
 Contributions are welcome! To get started with development:
 
 1.  Clone the repository
-
 ```
-git clone https://github.com/yourusername/marketstack\_wrapper.gitcd marketstack\_wrapper`
-    
+git clone https://github.com/yourusername/marketstack\_wrapper.gitcd marketstack\_wrapper
+```
 2.  Install the dependencies
-
 ```
-bundle install`
-    
+bundle install
+``` 
 3.  Run tests
-
 ```
-rspec`
-    
+rspec
+```
 
 Contributing
 ------------
@@ -157,18 +154,16 @@ Contributing
 2.  Create a new feature branch
 
 ```
-git checkout -b my-feature-branch`
-    
+git checkout -b my-feature-branch
+``` 
 3.  Commit your changes:
-
 ```
-git commit -m "Add my new feature"`
-    
+git commit -m "Add my new feature"
+```
 4.  Push to your branch:
-
 ```
-git push origin my-feature-branch`
-    
+git push origin my-feature-branch
+```
 5.  Open a pull request on GitHub.
     
 
