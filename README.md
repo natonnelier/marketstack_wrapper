@@ -51,7 +51,8 @@ Here’s how you can use the gem to interact with the MarketStack API:
 ### Initialization
 
 ```
-require 'marketstack_wrapper'  # Initialize the client with your API key  client = MarketstackWrapper::Client.new('your_access_key')
+require 'marketstack_wrapper'  # Initialize the client with your API key
+client = MarketstackWrapper::Client.new('your_access_key')
 ```
 
 ### Fetch All Tickers
